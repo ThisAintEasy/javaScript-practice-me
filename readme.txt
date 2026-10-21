@@ -5,7 +5,7 @@ Then open the file titled 'index'
 This will open the program in your default browser.
 
 Then you can paste or enter any javaScript code into the console in devoloper tools.
-so you can practice javascript. Mkae sure to start with:
+so you can practice javascript. Make sure to start with:
 
         'const canvas = document.getElementById("mycanvas");'
 
